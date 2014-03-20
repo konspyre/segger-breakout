@@ -1,0 +1,16 @@
+EESchema-LIBRARY Version 2.3  Date: Thu 20 Mar 2014 11:22:19 AM PDT
+#encoding utf-8
+#
+# HEADER
+#
+DEF ~HEADER P 0 40 Y Y 1 F N
+F0 "P" 0 200 60 H I C CNN
+F1 "HEADER" 0 -250 60 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+S 280 -650 -270 480 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library
