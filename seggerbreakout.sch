@@ -29,6 +29,8 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:seggerbreakout
+LIBS:seggerbreakout-cache
 EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268
@@ -43,4 +45,15 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+$Comp
+L JTAG P?
+U 1 1 532B5952
+P 4300 3500
+F 0 "P?" H 4300 4050 60  0001 C CNN
+F 1 "JTAG" H 4300 2950 60  0001 C CNN
+F 2 "~" H 4200 3550 60  0000 C CNN
+F 3 "~" H 4200 3550 60  0000 C CNN
+	1    4300 3500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
