@@ -1,17 +1,17 @@
-Cmp-Mod V01 Created by CvPcb (2013-june-11)-stable date = Tue 01 Apr 2014 12:40:57 PM PDT
+Cmp-Mod V01 Created by CvPcb (2013-june-11)-stable date = Thu 05 Jun 2014 04:51:57 PM PDT
 
 BeginCmp
 TimeStamp = /532F6FA2;
 Reference = P1;
 ValeurCmp = SWD;
-IdModule  = ;
+IdModule  = 1pin;
 EndCmp
 
 BeginCmp
 TimeStamp = /532B5952;
 Reference = P2;
 ValeurCmp = JTAG;
-IdModule  = ;
+IdModule  = SEGGER_INPUT;
 EndCmp
 
 EndListe
