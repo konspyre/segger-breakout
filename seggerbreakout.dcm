@@ -1,7 +1,11 @@
-EESchema-DOCLIB  Version 2.0  Date: Sun 23 Mar 2014 04:59:49 PM PDT
+EESchema-DOCLIB  Version 2.0  Date: Mon 18 Aug 2014 10:31:54 AM PDT
 #
 $CMP JTAG
 D http://www.segger.com/interface-description.html
+$ENDCMP
+#
+$CMP SWD
+D http://www.segger.com/jlink-needle-adapter.html
 $ENDCMP
 #
 #End Doc Library
