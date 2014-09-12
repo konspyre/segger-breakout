@@ -1,6 +1,6 @@
-update=Thu 05 Jun 2014 04:52:21 PM PDT
+update=Fri 12 Sep 2014 11:08:24 AM PDT
 version=1
-last_client=kicad
+last_client=pcbnew
 [cvpcb]
 version=1
 NetIExt=net
@@ -46,14 +46,16 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=seggerbreakout
+[general]
+version=1
 [pcbnew]
 version=1
 LastNetListRead=
 UseCmpFile=1
-PadDrill="    0.600000"
-PadDrillOvalY="    0.600000"
-PadSizeH="    1.500000"
-PadSizeV="    1.500000"
+PadDrill="    0.565658"
+PadDrillOvalY="    0.565658"
+PadSizeH="    0.787400"
+PadSizeV="    0.787400"
 PcbTextSizeV="    1.500000"
 PcbTextSizeH="    1.500000"
 PcbTextThickness="    0.300000"
@@ -84,5 +86,4 @@ LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
 LibName17=segger
-[general]
-version=1
+LibName18=OSHW-logo
