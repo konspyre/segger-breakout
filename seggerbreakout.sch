@@ -37,7 +37,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "18 aug 2014"
+Date "2 oct 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -96,8 +96,6 @@ Entry Wire Line
 Entry Wire Line
 	3950 3400 4050 3500
 Entry Wire Line
-	3950 3500 4050 3600
-Entry Wire Line
 	3950 3600 4050 3700
 Wire Wire Line
 	4400 3300 4050 3300
@@ -105,8 +103,6 @@ Wire Wire Line
 	4400 3400 4050 3400
 Wire Wire Line
 	4400 3500 4050 3500
-Wire Wire Line
-	4400 3600 4050 3600
 Wire Wire Line
 	4400 3700 4050 3700
 Wire Wire Line
@@ -286,7 +282,7 @@ Wire Bus Line
 Wire Bus Line
 	3950 3100 3950 6300
 Text Label 4100 3500 0    60   ~ 0
-5V
+GND
 Text Label 4100 5000 0    60   ~ 0
 5V
 Text Label 4100 6150 0    60   ~ 0
@@ -303,8 +299,6 @@ Text Label 4100 4200 0    60   ~ 0
 nTRST
 Text Label 4100 3400 0    60   ~ 0
 GND
-Text Label 4100 3600 0    60   ~ 0
-RTCK
 Text Label 4100 4600 0    60   ~ 0
 RTCK
 Text Label 4100 5750 0    60   ~ 0
@@ -314,7 +308,7 @@ TCK
 Text Label 4100 4500 0    60   ~ 0
 TCK
 Text Label 4100 3700 0    60   ~ 0
-nTRST
+GND
 Text Label 4100 4400 0    60   ~ 0
 TMS
 Text Label 4100 5550 0    60   ~ 0
