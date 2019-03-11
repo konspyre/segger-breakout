@@ -1,5 +1,7 @@
 # Segger SWD/JTAG Breakout Board
 
+Getting this made: [OSHPark](https://oshpark.com/shared_projects/w7QyiW3S)
+
 A breakout board for the Segger J-Link to the smaller SWD 1.27mm pitch headers.
 
 ![PCB for the Segger breakbout board, top](board-top.png)
