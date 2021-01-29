@@ -8,6 +8,8 @@ A breakout board for the Segger J-Link (2.54mm pitch) to SWD (1.27mm pitch) head
 
 ![PCB for the Segger breakout board, bottom](board-bottom.png)
 
+![PCB assembled with J-Link and SWD cable attached](jlink-breakout.png)
+
 ### Parts
 
 | Quantity | Description                           | Digikey Part Number |
